@@ -1,10 +1,7 @@
-figures/Firefox_Screenshot_2019-02-21T07-57-01.123Z.png
-figures/Firefox_Screenshot_2019-02-21T08-13-50.733Z.png
-figures/Firefox_Screenshot_2019-02-21T08-18-26.744Z.png
-figures/Firefox_Screenshot_2019-02-21T08-23-37.117Z.png
-figures/Firefox_Screenshot_2019-02-21T08-24-42.857Z.png
-figures/Firefox_Screenshot_2019-02-21T08-26-48.152Z.png
-figures/Firefox_Screenshot_2019-02-21T08-30-46.008Z.png
-figures/Screenshot (12).png
-figures/Screenshot (13).png
-figures/Screenshot (14).png
+figures/1.png
+figures/2.png
+figures/3.png
+figures/4.png
+figures/5.png
+figures/6.png
+figures/9.png

@@ -1,7 +1,7 @@
-figures/1.png
-figures/2.png
-figures/3.png
-figures/4.png
-figures/5.png
-figures/6.png
-figures/9.png
+![Screen Capture #1](figures/1.png)
+![Screen Capture #2](figures/2.png)
+![Screen Capture #3](figures/3.png)
+![Screen Capture #3](figures/4.png)
+![Screen Capture #4](figures/5.png)
+![Screen Capture #5](figures/6.png)
+![Screen Capture #9](figures/9.png)
